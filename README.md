@@ -1,7 +1,10 @@
 # M&A GPT Analysis API
-# Tuck Advisors Intern Coding Assignment
-# Mia Harlin
-# November 17, 2025
+
+Tuck Advisors Intern Coding Assignment
+
+Mia Harlin
+
+November 17, 2025
 
 A Flask-based REST API for managing M&A analysis markdown with persistent SQLite storage.
 
